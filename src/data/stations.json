@@ -1,0 +1,40 @@
+[
+  {
+    "name" : "France",
+    "id" : "FR",
+    "flag" : "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/320px-Flag_of_France.svg.png",
+    "mountains" : [
+      {
+        "name" : "Savoie",
+        "id" : "SAVOIE",
+        "stations" : [
+          {
+            "name" : "Les Arcs",
+            "logo" : "http://www.lesarcs.com/fileadmin/user_upload/Images/logos/lesarcs.jpg",
+            "position" : {
+              "x":4445765.753361284,
+              "y":530428.0716438642,
+              "z": 4538785.076383733
+            }
+          }
+        ]
+      },
+
+      {
+        "name" : "Massif-Central",
+        "id" : "MASSIF_CENTRAL",
+        "stations" : [
+          {
+            "name" : "Col de légal",
+            "logo" : "http://www.coldelegal.com/images/webcam.jpg",
+            "position" : {
+              "x": 4509582.788415376,
+              "y" : 203098.250049895,
+              "z" : 4494656.398173674
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

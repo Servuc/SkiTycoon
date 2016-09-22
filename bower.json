@@ -1,0 +1,26 @@
+{
+  "name": "SkiTycoon",
+  "homepage": "https://github.com/Servuc/SkiTycoon",
+  "authors": [
+    "Servuc"
+  ],
+  "description": "Ski Tycoon game",
+  "main": "index.html",
+  "keywords": [
+    "ski",
+    "game",
+    "tycoon",
+    "3d"
+  ],
+  "license": "GNU GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.2.3"
+  }
+}

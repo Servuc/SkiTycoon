@@ -1,0 +1,19 @@
+[
+  {
+    "name" : "Route",
+    "items" : [
+      {
+        "name" :  "Voie terre"
+      },
+      {
+        "name" :  "Voie goudron"
+      },
+      {
+        "name" :  "2 voies goudron"
+      },
+      {
+        "name" :  "4 voies goudron"
+      }
+    ]
+  }
+]

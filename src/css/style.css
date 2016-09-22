@@ -1,0 +1,45 @@
+* {
+    margin: 0; padding: 0;
+}
+html, body, .bigContainer {
+    width: 100%; height: 100%; overflow: hidden; position:absolute;
+}
+
+#cesiumContainer {
+    z-index: 1;
+}
+
+.menu {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50px;
+    z-index: 5;
+}
+
+.menu-item-size {
+    padding-top: 12px;
+    padding-left:5px;
+    width: 100px;
+    height: 50px;
+    background: #eee;
+    opacity: 0.5;
+    border: 1px solid black;
+}
+
+.menu .item .content {
+    display: none;
+}
+
+.menu .item:hover .content {
+    display: block;
+    position: absolute;
+    left:100px;
+    top: 0;
+
+}
+
+#menuDiv {
+    z-index: 500;
+    background: white;
+}
